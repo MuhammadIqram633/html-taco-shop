@@ -1,6 +1,6 @@
 # 🌮 The Little Taco Shop
 
-A semantic, responsive, and accessible multi-page restaurant website built with pure HTML5 and CSS.
+A semantic, responsive, and accessible multi-page restaurant website built with pure HTML5 and 1 Percent CCSS.
 
 ---
 
@@ -23,4 +23,4 @@ A semantic, responsive, and accessible multi-page restaurant website built with 
 
 ## 🛠️ Built With
 - HTML5
-- CSS3
+- 1 Percent CSS3
