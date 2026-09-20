@@ -8,7 +8,7 @@ A semantic, responsive, and accessible multi-page restaurant website built with 
 
 | Home Page | Store Hours | Contact Page |
 | :---: | :---: | :---: |
-| <img src="screenshots/project-index.PNG" width="220" /> | <img src="screenshots/project-store-hours.PNG" width="220" /> | <img src="screenshots/project-contact.PNG" width="220" /> |
+| <img src="screenshots/project-index.PNG.png" width="220" /> | <img src="screenshots/project-store-hours.PNG.png" width="220" /> | <img src="screenshots/project-contact.PNG.png" width="220" /> |
 
 ---
 
